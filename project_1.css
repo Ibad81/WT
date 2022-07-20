@@ -30,6 +30,9 @@ nav.navbar{
 a.navbar-brand {
     font-size:xx-large;
 }
+li {
+    padding-right:30px;
+}
 
 
 
