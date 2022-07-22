@@ -97,10 +97,12 @@ button.Explore_button{
 
 .header_content {
     /*background-color: white;*/
-    max-width: 50%;
-    width: 80%;
+    /* max-width: 50%; */
+    /* width: 80%; */
     margin: 0 auto;
     padding-top: 10%;
+    margin-left: 15%;
+    margin-right:15% ;
     text-align: center;
 }
 
