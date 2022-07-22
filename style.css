@@ -56,10 +56,11 @@ button.Explore_button{
 }
 
 .showcase{
-    padding: 20%;
+    padding: 10% 20% 10% 20%;
+    /* background-color: white; */
 }
 .row2{
-    padding-top: 160px;
+    padding-top: 60px;
 }
 
 .image{
@@ -68,12 +69,19 @@ button.Explore_button{
 
     object-fit: cover;
 }
-.text-{
-    background-color: rgb(193, 191, 191);
-    padding-left: 0px;
+div.text-{
+    background-color: white;
+    text-align:left;
 }
-
-
+div.img-con{
+    padding: 0px;
+}
+h2{
+    font-family: 'Montserrat, sans-serif'; 
+    font-size: 1.5rem;
+    line-height: 1.5; 
+    font-weight: bold;
+}
 .header_content {
     /*background-color: white;*/
     /* max-width: 50%; */
