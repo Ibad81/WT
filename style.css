@@ -156,6 +156,51 @@ h2{
     color: black;
 }
 
+/* ***************features************* */
+
+section .feature-row{
+
+    margin: 0px;
+    box-shadow: 5px 5px 20px 0px rgba(102, 102, 102, 0.521);
+}
+.feature-box-red{
+    text-align: center;
+    padding: 5%;
+    border: 2px solid black;
+    color: #ffff;
+    background: linear-gradient(25deg,#de4758,#ee4758 50%);
+}
+#features{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+    background-color: #263238;
+    color: white;
+    border: 2px solid black;
+}
+.text-red{
+    color: #e63946;
+}
+
+footer{
+    background-color: #263238;
+    color: #f4f4f4;
+    text-align: center;
+    padding: 2rem;
+}
+.social-media-link i{
+    margin: 1rem;
+}
+.social-media-link a{
+    color: #f4f4f4;
+}
+.social-media-link a:hover{
+    color: #aaa;
+}
+
 
 /*##################################### For second page */
 
