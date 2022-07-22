@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
 }
 
 .header {
@@ -58,9 +59,15 @@ button.Explore_button{
 .showcase{
     padding: 10% 20% 10% 20%;
     /* background-color: white; */
+    
+}
+.row1{
+    box-shadow: 0px 0px 20px 0px #aaa;
+    margin-bottom: 60px;
 }
 .row2{
-    padding-top: 60px;
+    
+    box-shadow: 0px 0px 20px 0px #aaa;
 }
 
 .image{
@@ -72,16 +79,40 @@ button.Explore_button{
 div.text-{
     background-color: white;
     text-align:left;
+    /* font-size: 1.5rem; */
 }
 div.img-con{
     padding: 0px;
 }
 h2{
+    
     font-family: 'Montserrat, sans-serif'; 
-    font-size: 1.5rem;
+    font-size: 3rem;
     line-height: 1.5; 
     font-weight: bold;
+    margin-top: 10px;
 }
+.lg-heading h2{
+    margin-top: 10px;
+}
+.lg-heading p{
+    width: 100%;
+    height: 50%;
+    
+}
+.text- .btn-secondary{
+    border: 2px solid #e63946;
+    border-radius: 2.5rem;
+    color: #e63946;
+    background-color: #ffff;
+    margin-bottom: 10px;
+}
+.text- .btn-secondary:hover{
+    background-color: #fcf3f2;
+    border: 2px solid #e63946;
+    
+}
+
 .header_content {
     /*background-color: white;*/
     /* max-width: 50%; */
