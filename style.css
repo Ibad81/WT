@@ -22,6 +22,7 @@ h1 {
     font-size: 3.5rem;
     line-height: 1.5; 
     font-weight: bold;
+
 }
 
 
@@ -54,32 +55,6 @@ button.Explore_button{
     padding: 10rem 0;
 }
 
-/* .row{
-    height: 360px;
-    border: 2px solid red;
-} */
-
-/*.row1{
-    margin-bottom: 10rem;
-}
-.row1 .img-box, .row2 .text-box{
-    float:left;
-    width:50%;
-}
-.row2 .img-box, .row1 .text-box{
-    float:right;
-    width:50%;
-}
-
-.row .img-box{
-    border:5px solid green;
-    height: 100%;
-}
-.row .text-box{
-    border:2px solid rebeccapurple;
-    padding: 3rem;
-}
-*/
 .showcase{
     padding: 20%;
 }
@@ -92,6 +67,10 @@ button.Explore_button{
     width: 100%;
 
     object-fit: cover;
+}
+.text-{
+    background-color: rgb(193, 191, 191);
+    padding-left: 0px;
 }
 
 
@@ -112,6 +91,7 @@ button.Explore_button{
     line-height: 30px;
     word-spacing: 4px;
     letter-spacing: 2.5px;
+    /* background-color: #0000; */
 }
 
 .header .link {
