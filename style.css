@@ -213,7 +213,7 @@ div.container-fluid{
 .bg-color{
     background-color: #263238;
 }
-.lg-heading{
+.lg-heading2{
     padding: 5rem 0rem;
     border-bottom:4px solid #e63946;
     padding-bottom: 0px;
@@ -221,7 +221,7 @@ div.container-fluid{
     font-style: initial;
     letter-spacing: 3px;
 }
-.row{
+.about-row{
     padding-left: 10%;
     padding-right: 10%;
 }
