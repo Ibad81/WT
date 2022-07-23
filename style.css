@@ -338,7 +338,7 @@ h1{
     display: block; */
     border-bottom: 4px soild #ee4758;
     width: 90%;
-    background-color: white;
+    /* background-color: white; */
     
 }
 .form-group label{
@@ -361,6 +361,10 @@ h1{
 }
 .bc{
     background-color: #ffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
 }
 
 .form button{
@@ -379,4 +383,8 @@ h1{
 
 .form button:hover{
     background-color: #de4758;
+}
+
+div.cont{
+    margin-bottom: 10px;
 }
